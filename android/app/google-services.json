@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754395187028",
+    "project_id": "react-firebase-chat-99450",
+    "storage_bucket": "react-firebase-chat-99450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754395187028:android:d2693da67afa2886f2eac1",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754395187028-qjr4j26mh13ht7omfvh80vljodj1h3vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz1Hr-C9t-Jeky1w0wXmXtQgHagbfSKkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754395187028-qjr4j26mh13ht7omfvh80vljodj1h3vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

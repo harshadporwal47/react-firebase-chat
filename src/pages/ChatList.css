@@ -1,0 +1,21 @@
+.List-Chat-class .list-group-item {
+  padding: 0 !important;
+}
+
+.Card-Class {
+  margin-bottom: 0rem !important;
+  border: 0 !important;
+}
+
+.row {
+  flex-wrap: nowrap !important;
+}
+
+.Image-Class {
+  padding: 10px !important;
+}
+
+.col-md-4 {
+  flex: 0 0 auto;
+  width: 33.33333333%;
+}

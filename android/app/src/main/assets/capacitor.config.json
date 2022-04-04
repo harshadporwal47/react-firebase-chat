@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "react-firebase-chat",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
