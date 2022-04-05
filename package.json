@@ -19,7 +19,7 @@
   },
   "scripts": {
     "start": "ionic serve",
-    "build": "react-scripts build",
+    "build": "ionic build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
