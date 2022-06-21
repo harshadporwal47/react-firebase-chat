@@ -5,7 +5,7 @@ import John from "../Assets/John.svg";
 import "./ChatList.css";
 import { useDevice } from "../context/DeviceProvider";
 
-const receiverList = ["John", "Alice", "Alex", "Dev", "Paul"];
+const receiverList = ["John", "Alice", "Alex", "Dev", "Paul","John", "Alice", "Alex", "Dev", "Paul","John", "Alice", "Alex", "Dev", "Paul","John", "Alice", "Alex", "Dev", "Paul"];
 
 function ChatList() {
   const navigate = useNavigate();

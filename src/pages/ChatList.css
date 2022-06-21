@@ -1,5 +1,19 @@
 .List-Chat-class .list-group-item {
   padding: 0 !important;
+  border-bottom: 1px solid;
+  border-right: 1px solid;
+}
+
+.List-Chat-class {
+  height: calc(100% - 40px);
+  overflow-y: scroll;
+}
+
+@media 
+  (max-device-width: 800px) { 
+    .List-Chat-class {
+      -webkit-overflow-scrolling: touch;
+    }
 }
 
 .Card-Class {

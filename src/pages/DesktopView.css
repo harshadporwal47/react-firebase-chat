@@ -1,0 +1,7 @@
+.MainDiv-class {
+  width: 100%;
+  height: calc(100% - 1px);
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
